@@ -1,0 +1,23 @@
+{
+  "name": "solanaairdrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharv01/solairdrop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tusharv01/solairdrop/issues"
+  },
+  "homepage": "https://github.com/tusharv01/solairdrop#readme",
+  "description": ""
+}
